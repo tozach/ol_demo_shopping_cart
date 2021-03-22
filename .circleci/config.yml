@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  snyk: circleci/snyk@0.0.3
+  snyk: snyk/snyk@0.0.3
 
 # Define the jobs we want to run for this project
 jobs:
