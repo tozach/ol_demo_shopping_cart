@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": {
     "description": "This API handles all of the standard CRUD actions in managing a virtual shopping cart.",
-    "version": "1.0.0",
+    "version": "2.1.0",
     "title": "Shopping Cart API"
   },
   "host": "prod.bigriverbooks.com",
