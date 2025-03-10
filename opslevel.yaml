@@ -1,0 +1,26 @@
+---
+version: 1
+component:
+  name: Ol Demo Shopping Cart
+  type: service
+  lifecycle:
+  tier:
+  product:
+  owner:
+  system:
+  language:
+  framework:
+  description:
+  aliases:
+  - test_ol_demo_sc
+  - what_will_happen_to_this
+  tags:
+  repositories:
+  - name: tozach/ol_demo_shopping_cart
+    path: "/"
+    provider: github
+  tools:
+  dependencies:
+  alert_sources:
+  properties:
+    release_type:
