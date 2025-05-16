@@ -6,7 +6,7 @@ component:
   lifecycle:
   tier:
   product:
-  owner:
+  owner: sample_order_management_team
   system:
   language:
   framework:
